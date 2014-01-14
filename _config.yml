@@ -1,7 +1,12 @@
-author: Brad Sjue
-description: Seeking Success
-pygments: true
-permalink: /blog/:categories/:year/:month/:day/:title.html
-markdown: redcarpet
-exclude: ["Rmd", ".DS_Store", "README.md"]
-excerpt_separator: <!--more-->
+title:        niffdy
+tagline:      'living your legacy'
+description:  'a niffdy place to be'
+url:          http://niffdy.com
+version:      .001
+author:
+  name:       'Brad Sjue'
+  email:      ''
+markdown:     redcarpet
+permalink:    pretty
+pygments:     true
+paginate:     3
