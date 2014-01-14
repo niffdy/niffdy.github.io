@@ -16,7 +16,7 @@ Maybe you could:
 
 - Stop any other online addiction
 
-- Stop _insert your own time waster here_
+- Stop <font color='blue'>_insert your own time waster here_</font>
 
 Now try this:
 
@@ -24,3 +24,6 @@ Now try this:
 
 - Get up 15 minutes earlier
 
+- Take a shorter shower
+
+In the end if you want to have more time to do the things you desire, you are going to have to stop doing something else.  You decide what is the priority for your life.  

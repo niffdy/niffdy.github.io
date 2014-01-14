@@ -1,4 +1,4 @@
-niffdy.github.io
+niffdy.com
 ================
 
-niffdy
+a niffdy place to be
