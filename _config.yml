@@ -1,12 +1,10 @@
-title:        a niffdy place to be
+title:        'sjue.net'
 tagline:      'living your legacy'
-description:  'a niffdy place to be'
+description:  'think love act'
 url:          http://sjue.net
-version:      .001
+version:      .002
 author:
   name:       'Brad Sjue'
   email:      ''
-markdown:     redcarpet
-permalink:    pretty
-pygments:     true
-paginate:     3
+markdown: kramdown
+twitter_username: bradsjue
