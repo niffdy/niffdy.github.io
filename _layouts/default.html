@@ -1,26 +1,20 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html>
 
   {% include head.html %}
 
   <body>
 
-    <header class="masthead">
-      <div class="masthead-inner">
-        <h1>{{ site.title }}</h1>
-        <p class="lead">{{ site.description }}</p>
+    {% include header.html %}
 
-        <div class="colophon">
-          <ul class="colophon-links">
-          </ul>
-          <p>&copy; 2014 {{ site.author.name }}. All rights reserved.</p>
-        </div>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
       </div>
-    </header>
-
-    <div class="content container">
-      {{ content }}
     </div>
 
+    {% include footer.html %}
+
   </body>
+
 </html>
