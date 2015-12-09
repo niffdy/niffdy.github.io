@@ -1,4 +1,4 @@
-niffdy.com
+sjue.net
 ================
 
-a niffdy place to be
+living your legacy
